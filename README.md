@@ -1,16 +1,22 @@
+<div style="background-color: black; color: white; padding: 20px;">
+
 ### Hi there 👋
+My name is Carlos Augusto, a Computer Science undergraduate from Recife, PE. I'm passionate about continuously expanding my skills as a developer. Currently, I'm immersed in learning Node.js, Express.js, and React.js to strengthen my expertise in web development.
 
-<!--
-**CarlosAugustoP/CarlosAugustoP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosAugustoP&show_icons=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAugustoP&layout=compact)
 
-Here are some ideas to get you started:
+## Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; justify-content: space-between;"> <br>
+  <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg">
+  <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
+
+## Projects
+Feel free to check out my [Projects](#projects) to see what I've been working on recently!
+
+</div>
