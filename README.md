@@ -19,4 +19,7 @@ My name is Carlos Augusto, a Computer Science undergraduate from Recife, PE. I'm
 ## Projects
 Feel free to check out my [Projects](#projects) to see what I've been working on recently!
 
+<!-- anchor for the projects section -->
+<a name="projects"></a>
+
 </div>
