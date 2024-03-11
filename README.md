@@ -3,7 +3,9 @@
 ### Hi there 👋
 My name is Carlos Augusto, a Computer Science undergraduate from Recife, Brazil. I'm passionate about continuously expanding my skills as a developer. Currently, I'm immersed in learning Node.js, Express.js, and React.js to strengthen my expertise in web development.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosAugustoP&show_icons=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAugustoP&layout=compact)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosAugustoP&show_icons=true&count_private=true) 
+<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAugustoP&layout=compact)
 
 ## Skills:
 
