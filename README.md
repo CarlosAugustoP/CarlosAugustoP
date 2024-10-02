@@ -1,7 +1,7 @@
 <div style="background-color: black; color: white; padding: 20px;">
 
 ### Hi there 👋
-My name is Carlos Augusto, a Computer Science undergraduate from Recife, Brazil. I'm passionate about continuously expanding my skills as a developer. Currently, I'm immersed in learning spring boot, mysql, next.js and generative AI!
+My name is Carlos Augusto, a Computer Science undergraduate from Recife, Brazil. I'm passionate about continuously expanding my skills as a developer. Currently, I'm immersed in learning spring boot, mysql, next.js and generative AI! Learn more about me: capvfdev.com.br
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAugustoP&layout=compact&langs_count=8&"/> 
 <br/>
