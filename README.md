@@ -3,9 +3,10 @@
 ### Hi there 👋
 My name is Carlos Augusto, a Computer Science undergraduate from Recife, Brazil. I'm passionate about continuously expanding my skills as a developer. Currently, I'm immersed in learning spring boot, mysql, next.js and generative AI!
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosAugustoP&show_icons=true&count_private=true) 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAugustoP&layout=compact&langs_count=8&"/> 
 <br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAugustoP&layout=compact)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosAugustoP&show_icons=true&count_private=true)
 
 ## Skills:
 
