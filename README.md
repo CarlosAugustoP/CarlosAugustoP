@@ -1,28 +1,36 @@
-<div style="background-color: black; color: white; padding: 20px;">
+<h1 align="center" style="margin-bottom: 20px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&pause=2000&lines=Hi+There!+👋+I'm+Carlos+Augusto!" alt="Typing SVG" />
+</h1>
 
-### Hi there 👋
-My name is Carlos Augusto, a Computer Science undergraduate from Recife, Brazil. I'm passionate about continuously expanding my skills as a developer. Currently, I'm immersed in learning spring boot, mysql, next.js and generative AI! Learn more about me: capvfdev.com.br
+<h3 align="center" style="margin-bottom: 20px;">
+  Welcome to my Github!
+</h3>
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAugustoP&layout=compact&langs_count=8&"/> 
-<br/>
+<div align="justify" style="margin-bottom: 30px;">
+  - I'm a developer from Recife - Pernambuco<br>
+  - I'm Graduating in Computer Science at <a href="https://www.cesar.school/" target="_blank">CESAR School</a><br>
+  - I'm currently learning: <strong> Domain Driven Design, Next.js and Spring Boot!</strong><br>
+  - Find out more about me <a href = "https://capvfdev.com.br"> in my portfolio! </a><br>
+  
+ <div align="center" style="margin-top: 15px;">
+      <a href="https://www.linkedin.com/in/carlos-augusto-vasconcelos-6472a3240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      <a href="mailto:capv2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
+</div><br>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosAugustoP&show_icons=true&count_private=true)
+<h2 align="center" style="margin-bottom: 20px;">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-## Skills:
-
-<div style="display: flex; justify-content: space-between;">
-    <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-
+<div align="center" style="margin-bottom: 20px;">
+    <img src="https://skillicons.dev/icons?i=nodejs,python,java,mysql,django,spring,nextjs,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=c,react,javascript,html,css,flask,selenium,tailwindcss" /><br><br>
 </div>
-
+<br>
+<!-- Alinhar os elementos lado a lado -->
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px; margin-bottom: 20px;">
+    <!-- Most Used Languages -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAugustoP&layout=compact&langs_count=8&"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosAugustoP&show_icons=true&count_private=true"/>
+</div>
 
 
 ## Projects
@@ -30,5 +38,3 @@ Feel free to check out my [Projects](#projects) to see what I've been working on
 
 <!-- anchor for the projects section -->
 <a name="projects"></a>
-
-</div>
