@@ -6,12 +6,12 @@
   Welcome to my Github!
 </h3>
 
-<div align="justify" style="margin-bottom: 30px;">
+<div align="center" style="margin-bottom: 30px;">
   - I'm a developer from Recife - Pernambuco<br>
   - I'm Graduating in Computer Science at <a href="https://www.cesar.school/" target="_blank">CESAR School</a><br>
   - I'm currently learning: <strong> Domain Driven Design, Next.js and Spring Boot!</strong><br>
   - Find out more about me <a href = "https://capvfdev.com.br"> in my portfolio! </a><br>
-  
+  <br> <br>
  <div align="center" style="margin-top: 15px;">
       <a href="https://www.linkedin.com/in/carlos-augusto-vasconcelos-6472a3240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       <a href="mailto:capv2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -21,8 +21,8 @@
 <h2 align="center" style="margin-bottom: 20px;">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center" style="margin-bottom: 20px;">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,java,mysql,django,spring,nextjs,postgresql" /><br>
-    <img src="https://skillicons.dev/icons?i=c,react,javascript,html,css,flask,selenium,tailwindcss" /><br><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,java,mysql,django,spring,nextjs,postgresql,nestjs,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=c,react,javascript,html,css,flask,selenium,tailwindcss,typescript,expressjs" /><br><br>
 </div>
 <br>
 <!-- Alinhar os elementos lado a lado -->
