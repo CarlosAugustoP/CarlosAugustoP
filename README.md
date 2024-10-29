@@ -28,7 +28,7 @@
 <!-- Alinhar os elementos lado a lado -->
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px; margin-bottom: 20px;">
     <!-- Most Used Languages -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAugustoP&layout=compact&langs_count=11&"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAugustoP&layout=compact&langs_count=8&"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosAugustoP&show_icons=true&count_private=true"/>
 </div>
 
