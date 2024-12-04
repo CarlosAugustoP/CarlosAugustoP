@@ -10,6 +10,7 @@
   - I'm a developer from Recife - Pernambuco<br>
   - I'm Graduating in Computer Science at <a href="https://www.cesar.school/" target="_blank">CESAR School</a><br>
   - I'm currently learning: <strong> Domain Driven Design, C#, Next.js and Spring Boot!</strong><br>
+  - Currently, i work as a software development back-end intern for Magnum tires
   - Find out more about me <a href = "https://capvfdev.com.br"> in my portfolio! </a><br>
   <br> <br>
  <div align="center" style="margin-top: 15px;">
