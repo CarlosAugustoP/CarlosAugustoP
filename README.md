@@ -22,8 +22,8 @@
 <h2 align="center" style="margin-bottom: 20px;">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center" style="margin-bottom: 20px;">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,java,mysql,django,spring,nextjs,postgresql,nestjs,docker" /><br>
-    <img src="https://skillicons.dev/icons?i=c,react,javascript,html,css,flask,selenium,tailwindcss,typescript,expressjs" /><br><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,java,mysql,django,spring,nextjs,nestjs,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=c,react,javascript,html,css,typescript,expressjs,postgresql,dotnet" /><br><br>
 </div>
 <br>
 
