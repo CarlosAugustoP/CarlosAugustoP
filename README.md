@@ -9,8 +9,8 @@
 <div align="center" style="margin-bottom: 30px;">
   - I'm a developer from Recife - Pernambuco<br>
   - I'm Graduating in Computer Science at <a href="https://www.cesar.school/" target="_blank">CESAR School</a><br>
-  - immersed ASP.NET Core, looking to create robust, clean and mantainable systems, using project patterns and design architectures.<br>
-  - Learning: Blazor Maui Hybrid for app development, messaging and microsystems.<br>
+  - immersed in ASP.NET Core, looking to create robust, clean and mantainable systems, using project patterns and design architectures.<br>
+  - Learning: Blazor Maui Hybrid for app development, as well as messaging and microsystems.<br>
   - Working as a software engineer intern for Magnum tires
   - Find out more about me <a href = "https://capvfdev.com.br"> in my portfolio! </a><br>
   <br> <br>
