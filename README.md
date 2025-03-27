@@ -29,8 +29,10 @@
 <br>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px; margin-bottom: 20px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAugustoP&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=58A6FF&icon_color=58A6FF&border_color=2F2F2F&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosAugustoP&show_icons=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=58A6FF&icon_color=58A6FF&border_color=2F2F2F&hide_border=true"/>
 </div>
+
 
 
 
